@@ -1,3 +1,3 @@
 THIS IS SATIRE!
 
-https://github.com/hansoory/valentine
+https://hansoory.github.io/valentine/
